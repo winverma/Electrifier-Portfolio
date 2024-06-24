@@ -1,0 +1,67 @@
+{
+    "name": "interests",
+    "children": [
+        {
+            "name": "Music Genres",
+            "children": [
+                { "name": "US Trap" },
+                { "name": "UK Drill" }
+            ]
+        },
+        {
+            "name": "Sports",
+            "children": [
+                {
+                    "name": "Cricket",
+                    "children": [
+                        { "name": "World Cup" },
+                        { "name": "IPL" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Scientific Fields",
+            "children": [
+                {
+                    "name": "Cosmology",
+                    "children": [
+                        { "name": "Quantum Mechanics" },
+                        { "name": "Astronomy" }
+                    ]
+                }
+            ]
+        }
+        , {
+            "name": "Culture and Languages",
+            "children": [
+                {
+                    "name": "History",
+                    "children": [
+                        { "name": "Ancient" },
+                        { "name": "Medieval" }
+                    ]
+                },
+                {
+                    "name": "Linguistics",
+                    "children": [
+                        { "name": "Indo-European" },
+                        { "name": "Asian" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tech",
+            "children": [
+                {
+                    "name": "Software Engineering",
+                    "children": [
+                        { "name": "CP" },
+                        { "name": "Dev" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
